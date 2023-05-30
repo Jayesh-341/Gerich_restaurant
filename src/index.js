@@ -1,10 +1,8 @@
-import React from 'react' //rfce
-import { ReactDOM } from 'react'
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-function index() {
-  return (
-    <div>index</div>
-  )
-}
+import './index.css';
+import App from './App';
 
-export default index
+ReactDOM.render(<App />, document.getElementById('root'));
+
