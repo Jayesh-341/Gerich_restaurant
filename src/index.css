@@ -20,7 +20,7 @@
 }
 
 a {
-  color: unset;
+  color: unset; /*always unset if you want to change color or hover*/
   text-decoration: none;
 }
 /*slide button  */
