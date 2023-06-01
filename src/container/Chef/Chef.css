@@ -3,7 +3,7 @@
     flex-direction: column;
     width: 100%;
 
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 
 .app__chef-content_quote {
@@ -34,8 +34,9 @@
 }
 
 .app__chef-sign img {
-    width: 250px;
-    margin-top: 3rem;
+    width: 50px;
+    margin-top: 2rem;
+    float: left;
 }
 
 @media screen and (max-width: 2000px){
